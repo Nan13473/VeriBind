@@ -1,0 +1,10 @@
+{
+  "chainId": 11155111,
+  "network": "sepolia",
+  "contracts": {
+    "VeriBindCredential": "0x0000000000000000000000000000000000000000"
+  },
+  "schemaVersion": 1,
+  "merkleVersion": "sha256-node-v1",
+  "generatedAt": "2026-09-29T00:00:00Z"
+}
